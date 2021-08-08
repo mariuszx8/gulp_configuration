@@ -8,7 +8,7 @@ Simple configuration for your static website.
 - minfication CSS and JS files,
 
 ## How to use?
-1. Clone this repo or download it.
+1. Clone or download this repo.
 2. ```npm install gulp```
 3. ```
     npm install browser-sync --save-dev
